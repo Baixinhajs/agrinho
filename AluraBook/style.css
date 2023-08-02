@@ -1,0 +1,20 @@
+body
+h1 {
+    background: black;
+    color: #FFFFFF
+}
+h2 {
+    color:aliceblue
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    background:red;
+}
+h2 {
+    text-align: center
+}
+p {
+    color:black
+}
