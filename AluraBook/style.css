@@ -1,20 +1,33 @@
 body
 h1 {
     background: black;
-    color: #FFFFFF
+    color:aliceblue;
 }
 h2 {
-    color:aliceblue
+    color:aliceblue;
 }
 h1 {
     text-align: center;
 }
+
 h2 {
-    background:red;
-}
-h2 {
-    text-align: center
+    text-align: center;
 }
 p {
-    color:black
+    color:black;
+}
+p {
+    text-align: center;
+}
+
+h3 {
+    background:red;
+    text-align: center;
+}
+main {
+    im{
+        "c:\Users\escola\Documents\AluraBook\9d7a0e1ec4543c5833ad77f1de3c125e.jpg"
+        float:nav-right: position: display: ;;;
+        float:right;
+    } 
 }
