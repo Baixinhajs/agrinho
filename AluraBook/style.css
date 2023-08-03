@@ -1,4 +1,7 @@
 body
+{
+    font-size : 30px
+}
 h1 {
     background: black;
     color:aliceblue;
@@ -24,10 +27,5 @@ h3 {
     background:red;
     text-align: center;
 }
-main {
-    im{
-        "c:\Users\escola\Documents\AluraBook\9d7a0e1ec4543c5833ad77f1de3c125e.jpg"
-        float:nav-right: position: display: ;;;
-        float:right;
-    } 
-}
+
+
