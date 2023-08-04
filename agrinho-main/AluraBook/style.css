@@ -2,6 +2,15 @@ body
 {
     font-size : 30px
 }
+h1{
+    border: 30px solid rgb(108, 245, 3);
+}
+
+p{
+    border-top: 30px solid rgb(231, 21, 18);
+background-color: rgb(253, 253, 253);
+}
+
 h1 {
     background: black;
     color:aliceblue;
@@ -24,7 +33,7 @@ p {
 }
 
 h3 {
-    background:red;
+    background:rgb(208, 240, 204);
     text-align: center;
 }
 
@@ -34,10 +43,9 @@ h3 {
     height: 100px;
 
 }
+
 .tim {
-    width: 30px;
-    border-radius: 60px;
-    height: 40px;
+    width: 0px;
+    border-radius: 0px;
 
 }
-
